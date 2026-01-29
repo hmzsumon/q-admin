@@ -35,6 +35,7 @@ export const apiSlice = createApi({
     "Notification",
     "Notifications",
     "Kyc",
+    "Tasks",
   ],
   endpoints: (builder) => ({}),
 });
